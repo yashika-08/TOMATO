@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# environment variables (VERY IMPORTANT)
+.env
+
+# logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# build folders (if any)
+dist/
+build/
+
+# uploads (if you store images locally)
+uploads/
